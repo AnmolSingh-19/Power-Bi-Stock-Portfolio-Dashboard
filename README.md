@@ -23,4 +23,8 @@ Welcome to the Stock Portfolio Dashboard repository! This Power BI project provi
 - **Performance Analysis**: Review top performers and losers to assess investment strategies.
 - **Dividend Tracking**: Analyze quarterly dividend income to evaluate dividend yield.
 
+# Power BI Dashboard
 
+Here’s a screenshot of my Power BI dashboard:
+
+![Screenshot 2024-08-06 092716](https://github.com/user-attachments/assets/ba43b4aa-4bfc-48cf-af1e-4a6cc33f9c59)
